@@ -1,2 +1,1 @@
-# hello_word
-The first time to use github
+我试试将头也删掉看有什么奇怪的情况发生没
